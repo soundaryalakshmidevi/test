@@ -1,0 +1,57 @@
+            PHP    (PHP is a general-purpose scripting language widely used as a server-side language for creating dynamic web pages.>
+
+HISTORY
+
+* PHP development began in 1994 and appeared in the market in 1995. when Rasmus Lerdorf wrote several Common Gateway Interface (CGI) programs in C, 
+which he used to maintain his personal homepage
+
+* He extended them to work with web forms and to communicate with databases, and called this implementation 
+"Personal Home Page/Forms Interpreter
+
+
+
+NAME:=>> old name=>>Personal Home Page  new name=>>Hypertext Preprocessor
+
+ *HTML embedded scripting language used to create dynamic Web pages.
+
+MAIN PURPOSE:
+ 
+ *PHP allows web developers to create dynamic content and interact with databases
+
+FEATURES:
+ *PHP can access cookies variable and set cookies. It supports many protocols, such as HTTP, POP3, LDAP, IMAP, SNMP, NNTP, and many more. It is well-connected with databases and supports a wide range of database
+
+LATEST VERSION:
+ * PHP 8.2
+The most recent version of PHP is PHP 8.2, which was released on November 24, 2022.
+
+WHO REPLACED PHP:
+
+*Python. Believe it or not, Python is now being used more than PHP in server-side development, 
+and for good reasons too. The Django framework is currently very famous among beginners and professionals alike.
+
+WHY PHP IS POPULAR:
+* PHP is still a widely used programming language for both server side and mobile development.
+
+*PHP IS INTERPRETER	
+
+SUPPORTING DATATYPES:
+String.
+Integer.
+Float (floating point numbers - also called double)
+Boolean.
+Array.
+Object.
+NULL.
+
+ two types of PHP tags
+
+  * opening and closing tags. 
+
+  *PHP script within these tags can be embedded in HTML document, so that embedded code is executed on server, leaving rest of the document to be processed by client browser's HTML parser.
+  
+Is PHP a web server?
+*PHP servers are not web servers, although many people use the terms interchangeably. As noted earlier, PHP (application) servers, such as Zend Server, run applications written in the PHP scripting language.
+
+PHP IS FAMOUS FOR:
+*open-source nature, ease of use, platform-independence, versatility, scalability, security, and integration capabilities
